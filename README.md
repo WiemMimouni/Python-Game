@@ -10,11 +10,10 @@ Assurez-vous que Python est installé sur votre système. Tkinter est inclus par
 ```bash
 python -m tkinter
 
-##Installation
 
+## Installation
 
 Clonez le dépôt sur votre machine locale en utilisant la commande suivante dans votre terminal :
-git clone [URL_DU_DÉPÔT]
 
 
 
@@ -22,4 +21,7 @@ git clone [URL_DU_DÉPÔT]
 Ouvrez un terminal et naviguez jusqu'au répertoire cloné. Lancez le jeu en exécutant :
 
 python game.py
+
+
+
 
